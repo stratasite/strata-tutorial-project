@@ -1,0 +1,4 @@
+name: Strata Tutorial
+description: TPC-DS retail benchmark semantic layer — a complete working example.
+production_branch: master
+git: https://github.com/stratasite/tutorial-project

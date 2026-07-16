@@ -1,0 +1,5 @@
+tpcds:
+  name: TPC-DS (DuckDB)
+  adapter: duckdb
+  tier: hot
+  file: /data/tpcds.duckdb
