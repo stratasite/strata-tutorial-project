@@ -232,7 +232,7 @@ fields:
     data_type: decimal
     expression:
       lookup: true
-      sql: s_tax_precentage
+      sql: s_tax_percentage
 
   - type: dimension
     name: Store Record Start Date
