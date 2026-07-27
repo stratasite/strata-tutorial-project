@@ -1,4 +1,3 @@
 name: TPC-DS Retail Sample
 description: TPC-DS retail sample project — explore a full retail data model with pre-built reports, semantic layer, and AI agents.
 production_branch: main
-git: https://github.com/stratasite/strata-tutorial-project
